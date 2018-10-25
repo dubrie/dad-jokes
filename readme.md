@@ -1,5 +1,9 @@
 # Dad style programming jokes
 
+submit your own, if they make me laugh I'll merge them. 
+
+---
+
 **Q:**  What diet did the ghost developer go on?
 
 **A:** Boolean
@@ -14,7 +18,7 @@
 
 **Q:** Why did 10 get paid less than "10"?
 
-**A:** There was workplace inequality. 
+**A:** There was workplace inequality.
 
 ---
 
@@ -45,7 +49,6 @@
 **Q:** What did the array say after it was extended?
 
 **A:** Stop objectifying me.
-
 
 ---
 
@@ -85,7 +88,7 @@ The programmer comes home with 12 loaves of bread.
 
 ---
 
-**Q:** What did the spider do on the computer? 
+**Q:** What did the spider do on the computer?
 
 **A:** Made a website!
 
@@ -150,3 +153,71 @@ The programmer comes home with 12 loaves of bread.
 **A:** Lots of memory!
 
 ---
+
+Java truly is an OOP language...
+
+As in: OOPs I used Java!
+
+---
+
+**Q:** How do programming pirates pass method parameters?
+
+**A:** Varrrrarrrgs.
+
+---
+
+**Q:** How do programming shepherds count their flock?
+
+**A:** With lambda functions
+
+--
+
+**Q:** How did pirates collaborate before computers ?
+
+**A:** Pier to pier networking.
+
+---
+
+**Q:** Why don't bachelors like Git?
+
+**A:** Because they are afraid to commit.
+
+---
+
+**Q:** A SQL query goes into a bar, walks up to two tables and asks:
+
+**A:** Can I JOIN you?
+
+---
+
+**Q:** ["hip","hip"]
+
+**A:** (hip hip array!)
+
+---
+
+**Q:** Why was the developer's family upset with them at dinner?
+
+**A:** They forgot to git squash before going home
+
+---
+
+**Q:** What did JavaScript call his son?
+
+**A:** JSON!
+
+---
+
+**Q:** What did the proud React component say to its child?
+
+**A:** I've got to give you props
+
+---
+
+**Q:** What did the server say to his client who was having a bad day?
+
+**A:** Everything's going to be 200
+
+---
+
+
